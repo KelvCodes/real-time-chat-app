@@ -9,4 +9,5 @@ A **fast, secure, and modern** chat application built using **Node.js, Express, 
 ## 🌟 Features  
 - **⚡ Real-Time Messaging** – Instant chat updates using WebSockets.
 - **👤 Usernames & Authentication** – Identify users for a personalized experience.
-- **💾 Message Storage** – Stores chat history in MongoDB for later access. 
+- **💾 Message Storage** – Stores chat history in MongoDB for later access.
+-  **🎨 Modern UI** – Inspired by WhatsApp with responsive, sleek design. 
