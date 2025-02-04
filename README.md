@@ -18,3 +18,4 @@ A **fast, secure, and modern** chat application built using **Node.js, Express, 
 
 ## 🛠️ Tech Stack  
 | **Technology**  | **Purpose** |
+|-----------------|-------------|
