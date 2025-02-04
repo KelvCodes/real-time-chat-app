@@ -13,3 +13,5 @@ A **fast, secure, and modern** chat application built using **Node.js, Express, 
 -  **🎨 Modern UI** – Inspired by WhatsApp with responsive, sleek design.
 -  **🔔 Live Notifications** – Get notified when a new message arrives.
 -  **📱 Mobile-Friendly** – Optimized for all screen sizes.
+
+---
