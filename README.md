@@ -29,3 +29,5 @@ A **fast, secure, and modern** chat application built using **Node.js, Express, 
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Frontend interactivity |
 
 ---
+
+## 🚀 How to Run Locally  
