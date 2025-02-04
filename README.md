@@ -31,3 +31,8 @@ A **fast, secure, and modern** chat application built using **Node.js, Express, 
 ---
 
 ## 🚀 How to Run Locally  
+ 
+### 1️⃣ Clone the Repository  
+```bash  
+git clone https://github.com/KelvCodes/realtime-chat-app.git  
+cd realtime-chat-app  
