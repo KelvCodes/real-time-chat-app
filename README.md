@@ -7,4 +7,4 @@ A **fast, secure, and modern** chat application built using **Node.js, Express, 
 ---
 
 ## 🌟 Features  
-- **⚡ Real-Time Messaging** – Instant chat updates using WebSockets
+- **⚡ Real-Time Messaging** – Instant chat updates using WebSockets.
