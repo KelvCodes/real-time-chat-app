@@ -52,7 +52,7 @@ PORT=3000
 ## 4️⃣ Start the Server
 ```bash
 node server.js
-``
+```
 
 ###5️⃣ Open in Browser
 Go to: http://localhost:3000 and start chatting! 🎉
