@@ -60,7 +60,7 @@ Go to: http://localhost:3000 and start chatting! 🎉
 
 ## 🤝 Contributing  
 
-Want to add new features or improve the a? We’d love your help! 💡  
+Want to add new features or improve the app? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  
