@@ -56,6 +56,8 @@ node server.js
 ## 5️⃣ Open in Browser
 Go to: http://localhost:3000 and start chatting! 🎉
 
+---
+
 ## 🤝 Contributing  
 
 Want to add new features or improve the game? We’d love your help! 💡  
