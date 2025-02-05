@@ -32,16 +32,16 @@ A **fast, secure, and modern** chat application built using **Node.js, Express, 
 
 ## 🚀 How to Run Locally  
 
-### 1️⃣ Clone the Repository  
+## 1️⃣ Clone the Repository  
 ```bash  
 git clone https://github.com/KelvCodes/realtime-chat-app.git  
 cd realtime-chat-app
-
-###2️⃣ Install Dependencies
+```
+## 2️⃣ Install Dependencies
 ```bash
 npm install
 
-###3️⃣ Set Up Environment Variables
+#3️⃣ Set Up Environment Variables
 Create a .env file and add your MongoDB connection string and Port:
 ```bash
 MONGO_URI=your-mongodb-connection-string  
