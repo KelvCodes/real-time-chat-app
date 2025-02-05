@@ -49,7 +49,7 @@ MONGO_URI=your-mongodb-connection-string
 PORT=3000
 ```
 
-### 4️⃣ Start the Server
+## 4️⃣ Start the Server
 ```bash
 node server.js
 
