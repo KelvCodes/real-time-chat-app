@@ -54,7 +54,7 @@ PORT=3000
 node server.js
 ```
 
-###5️⃣ Open in Browser
+##5️⃣ Open in Browser
 Go to: http://localhost:3000 and start chatting! 🎉
 
 
