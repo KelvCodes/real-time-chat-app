@@ -40,7 +40,7 @@ cd realtime-chat-app
 ## 2️⃣ Install Dependencies
 ```bash
 npm install
-``
+```
 
 #3️⃣ Set Up Environment Variables
 Create a .env file and add your MongoDB connection string and Port:
