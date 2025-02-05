@@ -15,7 +15,7 @@ A **fast, secure, and modern** chat application built using **Node.js, Express, 
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack Used  
 | **Technology**  | **Purpose** |
 |-----------------|-------------|
 | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | Backend API & server management |
