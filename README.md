@@ -42,7 +42,7 @@ cd realtime-chat-app
 npm install
 ```
 
-##3️⃣ Set Up Environment Variables
+## 3️⃣ Set Up Environment Variables
 Create a .env file and add your MongoDB connection string and Port:
 ```bash
 MONGO_URI=your-mongodb-connection-string  
