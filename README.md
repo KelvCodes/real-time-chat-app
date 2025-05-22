@@ -41,21 +41,7 @@ npm install
 ```
 
 ## 3️⃣ Set Up Environment Variables
-Create a .env file and add your MongoDB connection string and Port:
-```bash
-MONGO_URI=your-mongodb-connection-string  
-PORT=3000
-```
 
-## 4️⃣ Start the Server
-```bash
-node server.js
-```
-
-## 5️⃣ Open in Browser
-Go to: http://localhost:3000 and start chatting! 🎉
-
----
 
 ## 🤝 Contributing  
 
