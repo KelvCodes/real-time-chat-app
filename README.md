@@ -40,6 +40,9 @@ cd realtime-chat-app
 npm install
 ```
 or
+```bash
+npm install
+```
 
 ## 3️⃣ Set Up Environment Variables
 ### Setup .env file
