@@ -35,7 +35,7 @@ A **fast, secure, and modern** chat application built using **Node.js, Express, 
 git clone https://github.com/KelvCodes/realtime-chat-app.git  
 cd realtime-chat-app
 ```
-## 2️⃣ Install Dependencies in 
+## 2️⃣ Install Dependencies in b
 ```bash
 npm install
 ```
