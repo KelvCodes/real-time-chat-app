@@ -41,7 +41,7 @@ npm install
 ```
 or
 ```bash
-npm install
+npm instal
 ```
 
 ## 3️⃣ Set Up Environment Variables
