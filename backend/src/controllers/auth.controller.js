@@ -1,6 +1,4 @@
 
-
-        email: newUser.email,
         profilePic: newUser.profilePic,
       });
     } else {
