@@ -1,6 +1,4 @@
 
-};
-s successfully" });
   
   } catch (error) {
     console.log("Error in logout controller", error.message);
