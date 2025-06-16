@@ -1,6 +1,4 @@
 
-      email,
-      password: hashedPassword,
     });
 
     if (newUser) {
