@@ -1,6 +1,4 @@
 
-  try {
-    const { profilePic } = req.body;
     const userId = req.user._id;
 
     if (!profilePic) {
