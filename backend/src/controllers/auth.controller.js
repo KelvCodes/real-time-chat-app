@@ -1,7 +1,4 @@
 
-    });
-
-    if (newUser) {
       // generate jwt token here
       generateToken(newUser._id, res);
       await newUser.save();
