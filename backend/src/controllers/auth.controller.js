@@ -1,7 +1,6 @@
 
       ,
-      email: user.email,
-      profilePic: user.profilePic,
+      email: us,
     });
   } catch (error) {
     console.log("Error in login controller", error.message);
