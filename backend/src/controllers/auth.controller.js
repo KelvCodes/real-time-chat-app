@@ -1,5 +1,4 @@
 
-        profilePic: newUser.profilePic,
      
       res.status(400).json({ message: "Invalid user data" });
     }
