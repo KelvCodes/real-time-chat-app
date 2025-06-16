@@ -1,5 +1,4 @@
 
-    const hashedPassword = await bcrypt.hash(password, salt);
 
     const newUser = new User({
       fullName,
