@@ -1,7 +1,5 @@
 
-    const userId = req.user._id;
-
-    if (!profilePic) {
+    
       return res.status(400).json({ message: "Profile pic is required" });
     }
 
