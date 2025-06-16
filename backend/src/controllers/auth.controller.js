@@ -1,5 +1,4 @@
-email, password } = req.body;
-  try {
+email,
     const user = await User.findOne({ email });
 
     if (!user) {
