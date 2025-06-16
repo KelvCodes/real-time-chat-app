@@ -1,7 +1,4 @@
 
-
-    const newUser = new User({
-      fullName,
       email,
       password: hashedPassword,
     });
