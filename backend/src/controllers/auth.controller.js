@@ -1,5 +1,5 @@
 
-        fullName: newUser.fullName,
+
         email: newUser.email,
         profilePic: newUser.profilePic,
       });
