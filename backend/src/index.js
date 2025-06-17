@@ -1,5 +1,4 @@
-
-h.join(__dirname, "../frontend", "dist", "index.html"));
+, "../frontend", "dist", "index.html"));
   });
 }
 
