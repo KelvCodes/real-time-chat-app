@@ -1,12 +1,7 @@
 resolve();
 
 
-// Middleware setup
-// Enable compression to reduce response size
-app.use(compression());
 
-// Set security headers using helmet
-app.use(helmet());
 
 // Enable CORS with specific configuration
 app.use(
