@@ -5,12 +5,7 @@ resolve();
 
 // Enable CORS with specific configuration
 app.use(
-  cors({
-    origin: isProduction
-      ? process.env.CLIENT_URL // Use production URL
-      : "http://localhost:5173", // Use development URL
-    credentials: true, // Allow cookies to be sent
-    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"], // Allowed methods
+  cors({ // Allowed methods
     allowedHeaders: ["Content-Type", "Authorization"], // Allowed headers
   })
 );
