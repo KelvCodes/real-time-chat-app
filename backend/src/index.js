@@ -1,10 +1,4 @@
-
-// Load environment variables from .env file
-dotenv.config();
-
-// Define constants
-const PORT = process.env.PORT || 5000; // Default to 5000 if PORT is not set
-const __dirname = path.resolve();
+resolve();
 const isProduction = process.env.NODE_ENV === "production";
 
 // Configure rate limiter to prevent brute force attacks
