@@ -1,7 +1,5 @@
 ;
-import path from "path";
-import helmet from "helmet"; // Security headers
-import morgan from "morgan"; // Request logging
+
 import rateLimit from "express-rate-limit"; // Rate limiting
 import compression from "compression"; // Response compression
 
