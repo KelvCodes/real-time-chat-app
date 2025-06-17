@@ -1,7 +1,6 @@
 ;
 
 import rateLimit from "express-rate-limit"; // Rate limiting
-import compression from "compression"; // Response compression
 
 // Import custom modules
 import { connectDB } from "./lib/db.js";
