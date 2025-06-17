@@ -1,6 +1,4 @@
 
-import cors from "cors";
-
 import path from "path";
 
 import { connectDB } from "./lib/db.js";
