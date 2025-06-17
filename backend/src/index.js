@@ -1,7 +1,6 @@
 
 
-app.use("/api/auth", authRoutes);
-app.use("/api/messages", messageRoutes);
+app.uses);
 
 if (process.env.NODE_ENV === "production") {
   app.use(express.static(path.join(__dirname, "../frontend/dist")));
