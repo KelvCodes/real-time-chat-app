@@ -1,4 +1,4 @@
-, "dist", "index.html"));
+", "index.html"));
   });
 }
 
