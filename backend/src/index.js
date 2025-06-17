@@ -1,10 +1,6 @@
 resolve();
 
 
-// Initialize Express application
-// app is imported from socket.js where it's already initialized
-// const app = express();
-
 // Middleware setup
 // Enable compression to reduce response size
 app.use(compression());
