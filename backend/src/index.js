@@ -1,6 +1,4 @@
 
-import messageRoutes from "./routes/message.route.js";
-dotenv.config();
 
 const PORT = process.env.PORT;
 const __dirname = path.resolve();
