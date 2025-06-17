@@ -1,4 +1,4 @@
-, "../frontend", "dist", "index.html"));
+, "dist", "index.html"));
   });
 }
 
