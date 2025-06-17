@@ -1,9 +1,5 @@
 resolve();
-const isProduction = process.env.NODE_ENV === "production";
 
-// Configure rate limiter to prevent brute force attacks
-crom this IP, please try again later.",
-});
 
 // Initialize Express application
 // app is imported from socket.js where it's already initialized
