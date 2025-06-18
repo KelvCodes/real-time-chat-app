@@ -1,4 +1,4 @@
-rtraits/women/1.jpg",
+1.jpg",
   },
   {
     email: "olivia.miller@example.com",
