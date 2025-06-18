@@ -1,6 +1,4 @@
-
-
-const seedUsers = [
+ = [
   // Female Users
   {
     email: "emma.thompson@example.com",
