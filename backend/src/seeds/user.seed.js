@@ -1,5 +1,4 @@
-omen/2.jpg",
-  },
+
   {
     email: "sophia.davis@example.com",
     fullName: "Sophia Davis",
