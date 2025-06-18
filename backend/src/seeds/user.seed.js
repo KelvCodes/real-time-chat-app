@@ -1,5 +1,5 @@
 
-    password: "123456",
+",
     profilePic: "https://randomuser.me/api/portraits/women/1.jpg",
   },
   {
