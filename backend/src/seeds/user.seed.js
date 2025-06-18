@@ -1,6 +1,6 @@
 
 
-config();
+();
 
 const seedUsers = [
   // Female Users
