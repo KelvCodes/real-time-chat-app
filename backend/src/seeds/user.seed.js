@@ -1,4 +1,4 @@
-"https://randomuser.me/api/portraits/women/2.jpg",
+://randomuser.me/api/portraits/women/2.jpg",
   },
   {
     email: "sophia.davis@example.com",
