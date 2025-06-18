@@ -1,11 +1,4 @@
-ame: "Charlotte Williams",
-amelia.garcia@example.com",
-    fullName: "Amelia Garcia",
-    password: "123456",
-    profilePic: "https://randomuser.me/api/portraits/women/8.jpg",
-  },
-
-  // Male Users
+rs
   {
     email: "james.anderson@example.com",
     fullName: "James Anderson",
