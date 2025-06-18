@@ -1,7 +1,4 @@
-
-
-
-    profilePic: "https://randomuser.me/api/portraits/women/2.jpg",
+"https://randomuser.me/api/portraits/women/2.jpg",
   },
   {
     email: "sophia.davis@example.com",
