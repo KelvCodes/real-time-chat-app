@@ -1,5 +1,4 @@
-sers
-  {
+
     email: "emma.thompson@example.com",
     fullName: "Emma Thompson",
     password: "123456",
