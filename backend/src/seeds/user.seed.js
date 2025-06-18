@@ -1,6 +1,4 @@
-1.jpg",
-  },
-  {
+
     email: "olivia.miller@example.com",
     fullName: "Olivia Miller",
     password: "123456",
