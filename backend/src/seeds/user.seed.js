@@ -1,6 +1,5 @@
 
-    password: "123456",
-    profilePic: "https://randomuser.me/api/portraits/women/4.jpg",
+ser.me/api/portraits/women/4.jpg",
   },
   {
     email: "isabella.brown@example.com",
