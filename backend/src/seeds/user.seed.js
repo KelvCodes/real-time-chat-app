@@ -1,5 +1,5 @@
 
-iller@example.com",
+
     fullName: "Olivia Miller",
     password: "123456",
     profilePic: "https://randomuser.me/api/portraits/women/2.jpg",
