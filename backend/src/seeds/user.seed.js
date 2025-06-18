@@ -1,6 +1,4 @@
-
-",
-    profilePic: "https://randomuser.me/api/portraits/women/1.jpg",
+"https://randomuser.me/api/portraits/women/1.jpg",
   },
   {
     email: "olivia.miller@example.com",
