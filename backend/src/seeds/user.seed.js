@@ -1,6 +1,4 @@
-: "https://randomuser.me/api/portraits/women/3.jpg",
-  },
-  {
+
     email: "ava.wilson@example.com",
     fullName: "Ava Wilson",
     password: "123456",
