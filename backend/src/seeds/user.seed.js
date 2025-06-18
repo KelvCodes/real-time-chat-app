@@ -1,7 +1,4 @@
-
-  {
-    email: "sophia.davis@example.com",
-    fullName: "Sophia Davis",
+ia Davis",
     password: "123456",
     profilePic: "https://randomuser.me/api/portraits/women/3.jpg",
   },
