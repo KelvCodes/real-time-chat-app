@@ -1,10 +1,4 @@
-
-    email: "mia.johnson@example.com",
-andomuser.me/api/portraits/women/6.jpg",
-  },
-  {
-    email: "charlotte.williams@example.com",
-    fullName: "Charlotte Williams",
+ame: "Charlotte Williams",
     password: "123456",
     profilePic: "https://randomuser.me/api/portraits/women/7.jpg",
   },
