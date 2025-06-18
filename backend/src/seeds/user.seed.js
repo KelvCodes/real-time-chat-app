@@ -1,4 +1,4 @@
- from "../lib/db.js";
+db.js";
 import User from "../models/user.model.js";
 
 config();
