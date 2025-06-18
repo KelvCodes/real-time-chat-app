@@ -1,5 +1,5 @@
 
-    email: "emma.thompson@example.com",
+ "emma.thompson@example.com",
     fullName: "Emma Thompson",
     password: "123456",
     profilePic: "https://randomuser.me/api/portraits/women/1.jpg",
