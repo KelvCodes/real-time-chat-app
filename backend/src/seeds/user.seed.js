@@ -1,7 +1,5 @@
 
 
-();
-
 const seedUsers = [
   // Female Users
   {
