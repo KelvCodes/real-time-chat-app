@@ -1,5 +1,4 @@
-
-    email: "ava.wilson@example.com",
+m",
     fullName: "Ava Wilson",
     password: "123456",
     profilePic: "https://randomuser.me/api/portraits/women/4.jpg",
