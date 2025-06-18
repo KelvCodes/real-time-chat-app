@@ -1,8 +1,6 @@
 
     email: "mia.johnson@example.com",
-    fullName: "Mia Johnson",
-    password: "123456",
-    profilePic: "https://randomuser.me/api/portraits/women/6.jpg",
+andomuser.me/api/portraits/women/6.jpg",
   },
   {
     email: "charlotte.williams@example.com",
