@@ -1,5 +1,4 @@
-
-import User from "../models/user.model.js";
+ from "../models/user.model.js";
 
 config();
 
