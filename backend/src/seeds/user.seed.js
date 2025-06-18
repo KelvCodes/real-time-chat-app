@@ -1,4 +1,4 @@
-://randomuser.me/api/portraits/women/2.jpg",
+omen/2.jpg",
   },
   {
     email: "sophia.davis@example.com",
