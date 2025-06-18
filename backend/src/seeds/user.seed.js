@@ -1,5 +1,4 @@
- = [
-  // Female Users
+sers
   {
     email: "emma.thompson@example.com",
     fullName: "Emma Thompson",
