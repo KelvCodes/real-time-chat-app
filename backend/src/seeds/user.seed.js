@@ -1,4 +1,4 @@
-nectDB } from "../lib/db.js";
+ from "../lib/db.js";
 import User from "../models/user.model.js";
 
 config();
