@@ -1,4 +1,4 @@
-/models/user.model.js";
+user.model.js";
 
 config();
 
