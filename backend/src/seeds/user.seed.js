@@ -1,4 +1,4 @@
-r.me/api/portraits/women/1.jpg",
+rtraits/women/1.jpg",
   },
   {
     email: "olivia.miller@example.com",
