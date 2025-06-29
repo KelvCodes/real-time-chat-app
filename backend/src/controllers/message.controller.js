@@ -1,6 +1,6 @@
 
 
-    const receiverSocketId = getReceiverSocketId(receiverId);
+ceiverSocketId = getReceiverSocketId(receiverId);
     if (receiverSocketId) {
       io.to(receiverSocketId).emit("newMessage", newMessage);
     }
