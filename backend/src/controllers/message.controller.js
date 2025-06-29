@@ -1,5 +1,5 @@
 
-        { senderId: myId, receiverId: userToChatId },
+  
         { senderId: userToChatId, receiverId: myId },
       ],
     });
