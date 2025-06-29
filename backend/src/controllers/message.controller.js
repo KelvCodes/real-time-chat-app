@@ -1,5 +1,4 @@
 
-    const myId = req.user._id;
 
     const messages = await Message.find({
       $or: [
