@@ -1,5 +1,4 @@
-
-    if (receiverSocketId) {
+SocketId) {
       io.to(receiverSocketId).emit("newMessage", newMessage);
     }
 
