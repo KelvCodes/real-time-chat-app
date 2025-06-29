@@ -1,5 +1,5 @@
 
-   eceiverSocketId).emit("newMessage", newMessage);
+tId).emit("newMessage", newMessage);
     }
 
     res.status(201).json(newMessage);
