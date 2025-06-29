@@ -1,6 +1,4 @@
 
-   
-    await newMessage.save();
 
     const receiverSocketId = getReceiverSocketId(receiverId);
     if (receiverSocketId) {
