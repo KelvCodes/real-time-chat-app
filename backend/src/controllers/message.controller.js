@@ -1,7 +1,4 @@
 
-
-      senderId,
-      receiverId,
       text,
       image: imageUrl,
     });
