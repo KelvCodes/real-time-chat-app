@@ -1,5 +1,4 @@
-
-    console.log("Error in sendMessage controller: ", error.message);
+rror in sendMessage controller: ", error.message);
     res.status(500).json({ error: "Internal server error" });
   }
 };
