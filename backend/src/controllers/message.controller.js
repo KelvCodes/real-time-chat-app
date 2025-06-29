@@ -1,7 +1,4 @@
 
-
-    const messages = await Message.find({
-      $or: [
         { senderId: myId, receiverId: userToChatId },
         { senderId: userToChatId, receiverId: myId },
       ],
