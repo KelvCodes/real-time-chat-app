@@ -1,5 +1,5 @@
 
-      io.to(receiverSocketId).emit("newMessage", newMessage);
+   eceiverSocketId).emit("newMessage", newMessage);
     }
 
     res.status(201).json(newMessage);
