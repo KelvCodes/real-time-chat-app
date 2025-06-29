@@ -1,5 +1,5 @@
 
-    const newMessage = new Message({
+
       senderId,
       receiverId,
       text,
