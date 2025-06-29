@@ -1,8 +1,5 @@
 
-      text,
-      image: imageUrl,
-    });
-
+   
     await newMessage.save();
 
     const receiverSocketId = getReceiverSocketId(receiverId);
