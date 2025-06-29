@@ -1,6 +1,6 @@
 
 
-ceiverSocketId = getReceiverSocketId(receiverId);
+Id = getReceiverSocketId(receiverId);
     if (receiverSocketId) {
       io.to(receiverSocketId).emit("newMessage", newMessage);
     }
