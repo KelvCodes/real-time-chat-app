@@ -1,5 +1,4 @@
 
-    const { id: userToChatId } = req.params;
     const myId = req.user._id;
 
     const messages = await Message.find({
