@@ -1,6 +1,4 @@
 
-  
-        { senderId: userToChatId, receiverId: myId },
       ],
     });
 
