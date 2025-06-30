@@ -1,5 +1,4 @@
 
-import { socketServer } from './lib/socket';
 
 // Load environment variables
 dotenv.config();
