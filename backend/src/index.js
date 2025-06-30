@@ -1,7 +1,4 @@
 
-        uptime: process.uptime(),
-      });
-    });
 
     // API routes
     this.app.use('/api/auth', authRoutes);
