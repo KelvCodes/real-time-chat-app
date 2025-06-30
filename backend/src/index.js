@@ -1,6 +1,4 @@
 
-    // Parse JSON bodies with size limit
-    this.app.use(express.json({ limit: '10kb' }));
 
     // Parse cookies
     this.app.use(cookieParser());
