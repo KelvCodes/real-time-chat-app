@@ -1,8 +1,5 @@
 
 
-    // Log requests in development
-    if (!this.config.isProduction) {
-      this.app.use(morgan('dev'));
     }
 
     // Apply rate limiting
