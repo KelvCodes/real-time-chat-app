@@ -1,5 +1,4 @@
-100 requests per IP
-        message: 'Too many requests from this IP, please try again later.',
+'Too many requests from this IP, please try again later.',
       })
     );
 
