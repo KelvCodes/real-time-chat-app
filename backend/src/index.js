@@ -1,8 +1,6 @@
 
 
-    // Serve static files in production
-    if (this.config.isProduction) {
-      this.app.use(express.static(this.config.staticPath));
+  .config.staticPath));
     }
   }
 
