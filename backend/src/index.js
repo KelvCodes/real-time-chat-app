@@ -1,8 +1,5 @@
 
 
-    // Parse cookies
-    this.app.use(cookieParser());
-
     // Log requests in development
     if (!this.config.isProduction) {
       this.app.use(morgan('dev'));
