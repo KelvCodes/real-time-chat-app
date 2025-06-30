@@ -1,8 +1,4 @@
 
-    Headers: ['Content-Type', 'Authorization'],
-      })
-    );
-
     // Parse JSON bodies with size limit
     this.app.use(express.json({ limit: '10kb' }));
 
