@@ -1,5 +1,5 @@
 
-import rateLimit from 'express-rate-limit';
+
 import compression from 'compression';
 
 // Importing custom modules
