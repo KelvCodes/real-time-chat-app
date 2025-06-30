@@ -1,8 +1,5 @@
 
-
-import compression from 'compression';
-
-// Importing custom modules
+ustom modules
 import { connectDB } from './lib/db';
 import authRoutes from './routes/auth.route';
 import messageRoutes from './routes/message.route';
