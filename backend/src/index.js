@@ -1,7 +1,5 @@
 
 
-  private server: ReturnType<typeof socketServer>;
-  private config: ServerConfig;
 
   constructor() {
     this.app = express();
