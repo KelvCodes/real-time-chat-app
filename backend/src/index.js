@@ -1,6 +1,4 @@
 
-        status: 'success',
-        message: 'Server is healthy',
         uptime: process.uptime(),
       });
     });
