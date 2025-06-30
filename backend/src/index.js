@@ -1,8 +1,5 @@
 
-  
 
-    this.initializeMiddleware();
-    this.initializeRoutes();
     this.initializeErrorHandling();
   }
 
