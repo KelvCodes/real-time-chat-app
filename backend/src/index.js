@@ -1,6 +1,4 @@
 
-    this.app.get('/api/health', (req: Request, res: Response) => {
-      res.status(200).json({
         status: 'success',
         message: 'Server is healthy',
         uptime: process.uptime(),
