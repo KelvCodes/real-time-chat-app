@@ -1,6 +1,4 @@
-'Too many requests from this IP, please try again later.',
-      })
-    );
+
 
     // Serve static files in production
     if (this.config.isProduction) {
