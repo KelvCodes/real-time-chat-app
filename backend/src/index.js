@@ -1,8 +1,4 @@
-
-interface ServerConfig {
-  port: number;
-  clientUrl: string;
-  isProduction: boolean;
+ean;
   staticPath: string;
 }
 
