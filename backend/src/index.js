@@ -1,7 +1,4 @@
 
-
-
-    this.server = socketServer(this.app);
     this.config = {
       port: parseInt(process.env.PORT || '5000', 10),
       clientUrl: process.env.CLIENT_URL || 'http://localhost:5173',
