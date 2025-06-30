@@ -1,8 +1,6 @@
 
 
 
-  constructor() {
-    this.app = express();
     this.server = socketServer(this.app);
     this.config = {
       port: parseInt(process.env.PORT || '5000', 10),
