@@ -1,7 +1,4 @@
 
-  // Configure routes
-  private initializeRoutes(): void {
-    // Health check endpoint
     this.app.get('/api/health', (req: Request, res: Response) => {
       res.status(200).json({
         status: 'success',
