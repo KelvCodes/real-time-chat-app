@@ -1,11 +1,6 @@
 
   // Start the server
-  public start(): void {
-    this.server.listen(this.config.port, async () => {
-      console.log(`Server running on port: ${this.config.port}`);
-      console.log(`Environment: ${process.env.NODE_ENV || 'development'}`);
 
-      try {
         await connectDB();
         console.log('Database connection established');
       } catch (err) {
