@@ -1,7 +1,5 @@
 
 
-    // API routes
-    this.app.use('/api/auth', authRoutes);
     this.app.use('/api/messages', messageRoutes);
 
     // Serve SPA in production
