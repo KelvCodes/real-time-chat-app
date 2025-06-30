@@ -1,7 +1,4 @@
-
-ustom modules
-import { connectDB } from './lib/db';
-import authRoutes from './routes/auth.route';
+e';
 import messageRoutes from './routes/message.route';
 import { socketServer } from './lib/socket';
 
