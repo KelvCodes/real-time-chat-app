@@ -1,6 +1,4 @@
-ean;
-  staticPath: string;
-}
+
 
 class Server {
   private app: Application;
