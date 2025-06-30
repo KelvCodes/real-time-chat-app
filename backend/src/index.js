@@ -1,6 +1,4 @@
 
-import dotenv from 'dotenv';
-import cookieParser from 'cookie-parser';
 import cors from 'cors';
 import path from 'path';
 import helmet from 'helmet';
