@@ -1,6 +1,5 @@
 
-  private initializeMiddleware(): void {
-    // Enable response compression
+
     this.app.use(compression());
 
     // Set security headers
