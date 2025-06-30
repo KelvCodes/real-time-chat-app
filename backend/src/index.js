@@ -1,9 +1,4 @@
 
-
-    this.initializeErrorHandling();
-  }
-
-  // Configure middleware
   private initializeMiddleware(): void {
     // Enable response compression
     this.app.use(compression());
