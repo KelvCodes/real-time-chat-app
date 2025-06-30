@@ -1,8 +1,4 @@
 
-
-    this.app.use(compression());
-
-    // Set security headers
     this.app.use(helmet());
 
     // Configure CORS
