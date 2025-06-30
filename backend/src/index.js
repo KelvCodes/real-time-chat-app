@@ -1,9 +1,4 @@
-
-
-    this.app.use('/api/messages', messageRoutes);
-
-    // Serve SPA in production
-    if (this.config.isProduction) {
+{
       this.app.get('*', (req: Request, res: Response) => {
         res.sendFile(path.join(this.config.staticPath, 'index.html'));
       });
