@@ -1,6 +1,4 @@
 
-    this.app.use('*', (req: Request, res: Response) => {
-      res.status(404).json({
         status: 'error',
         message: `Cannot find ${req.originalUrl} on this server!`,
       });
