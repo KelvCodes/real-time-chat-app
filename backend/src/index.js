@@ -1,6 +1,5 @@
 
-        methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-        allowedHeaders: ['Content-Type', 'Authorization'],
+    Headers: ['Content-Type', 'Authorization'],
       })
     );
 
