@@ -1,12 +1,4 @@
 
-    });
-
-        status: 'error',
-        message: this.config.isProduction ? 'Something went wrong!' : err.message,
-      });
-    });
-  }
-
   // Start the server
   public start(): void {
     this.server.listen(this.config.port, async () => {
