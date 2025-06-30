@@ -1,7 +1,4 @@
 
-        status: 'error',
-        message: `Cannot find ${req.originalUrl} on this server!`,
-      });
     });
 
     // Global error handler
