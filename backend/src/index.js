@@ -1,9 +1,4 @@
 
-
-  .config.staticPath));
-    }
-  }
-
   // Configure routes
   private initializeRoutes(): void {
     // Health check endpoint
