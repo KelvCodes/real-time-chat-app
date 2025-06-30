@@ -1,8 +1,4 @@
 
-
-  // Configure error handling
-  private initializeErrorHandling(): void {
-    // 404 handler
     this.app.use('*', (req: Request, res: Response) => {
       res.status(404).json({
         status: 'error',
