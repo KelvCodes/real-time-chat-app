@@ -1,6 +1,5 @@
 
-      staticPath: path.join(__dirname, '../../frontend/dist'),
-    };
+  
 
     this.initializeMiddleware();
     this.initializeRoutes();
