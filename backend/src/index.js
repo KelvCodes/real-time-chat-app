@@ -1,7 +1,5 @@
 
 
-class Server {
-  private app: Application;
   private server: ReturnType<typeof socketServer>;
   private config: ServerConfig;
 
