@@ -1,5 +1,5 @@
 {
-      this.app.get('*', (req: Request, res: Response) => {
+
         res.sendFile(path.join(this.config.staticPath, 'index.html'));
       });
     }
