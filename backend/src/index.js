@@ -1,9 +1,4 @@
-{
 
-        res.sendFile(path.join(this.config.staticPath, 'index.html'));
-      });
-    }
-  }
 
   // Configure error handling
   private initializeErrorHandling(): void {
