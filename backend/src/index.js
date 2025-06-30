@@ -1,8 +1,4 @@
 
-
-// Load environment variables
-dotenv.config();
-
 interface ServerConfig {
   port: number;
   clientUrl: string;
