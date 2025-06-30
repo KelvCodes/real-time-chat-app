@@ -1,5 +1,4 @@
-e';
-import messageRoutes from './routes/message.route';
+
 import { socketServer } from './lib/socket';
 
 // Load environment variables
