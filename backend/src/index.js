@@ -1,8 +1,4 @@
 
-    this.app.use(helmet());
-
-    // Configure CORS
-    this.app.use(
       cors({
         origin: this.config.isProduction ? this.config.clientUrl : 'http://localhost:5173',
         credentials: true,
